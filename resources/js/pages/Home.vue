@@ -214,14 +214,6 @@
         max-width: 583px;
         max-height: 482px;
     }
-    @font-face {
-        font-family: 'Jura_r';
-        src: url('storage/fonts/Jura-Regular.ttf');
-    }
-    @font-face {
-        font-family: 'Jura_sB';
-        src: url('storage/fonts/Jura-SemiBold.ttf');
-    }
     #banner{
         width: 101vw;
         height: 185px;
