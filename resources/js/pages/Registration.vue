@@ -34,10 +34,7 @@
 <style>
 
 
-@font-face {
-  font-family: "inter";
-  src: url('storage/fonts/Inter-VariableFont_slnt,wght.ttf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 *{
   font-family: 'inter';
